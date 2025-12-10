@@ -16,7 +16,7 @@ A comprehensive web security analysis tool designed to provide rapid and objecti
 - [Features](#-features)
 - [Security Checks](#-security-checks)
 - [Scoring System](#-scoring-system)
-- [Technical Stack](#technical-stack)
+- [Technical Stack](#-technical-stack)
 - [Usage](#-usage)
 - [Limitations](#-limitations)
 - [Future Improvements](#-future-improvements)

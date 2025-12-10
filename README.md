@@ -191,7 +191,7 @@ Score = 100 - (2 × 15) - (3 × 5)
 
 ---
 
-## 🛠️ Technical Stack
+## ⚙️ Technical Stack
 
 ### Frontend
 

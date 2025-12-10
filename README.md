@@ -26,7 +26,7 @@ A comprehensive web security analysis tool designed to provide rapid and objecti
 
 ---
 
-## 🎯Overview
+## 🎯 Overview
 
 CYBER NINJA is a web-based security scanner that analyzes websites for common security vulnerabilities and misconfigurations. It performs 15+ automated security checks and provides a comprehensive security score (0-100) based on industry best practices and OWASP guidelines.
 

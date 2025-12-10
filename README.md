@@ -10,7 +10,7 @@ A comprehensive web security analysis tool designed to provide rapid and objecti
 
 ## 📋 Table of Contents
 
-- [Overview](#Overview)
+- [Overview](#-Overview)
 - [Why CYBER NINJA?](#why-cyber-ninja)
 - [Target Audience](#target-audience)
 - [Features](#features)

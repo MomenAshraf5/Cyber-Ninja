@@ -11,18 +11,18 @@ A comprehensive web security analysis tool designed to provide rapid and objecti
 ## 📋 Table of Contents
 
 - [Overview](#-Overview)
-- [Why CYBER NINJA?](#why-cyber-ninja)
-- [Target Audience](#target-audience)
-- [Features](#features)
-- [Security Checks](#security-checks)
-- [Scoring System](#scoring-system)
-- [Technical Stack](#technical-stack)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Limitations](#limitations)
-- [Future Improvements](#future-improvements)
-- [License](#license)
+- [Why CYBER NINJA?](#-why-cyber-ninja)
+- [Target Audience](#-target-audience)
+- [Features](#-features)
+- [Security Checks](#-security-checks)
+- [Scoring System](#-scoring-system)
+- [Technical Stack](#-technical-stack)
+- [Installation & Setup](#-installation--setup)
+- [Usage](#-usage)
+- [Project Structure](#-project-structure)
+- [Limitations](#-limitations)
+- [Future Improvements](#-future-improvements)
+- [License](#-license)
 
 ---
 
